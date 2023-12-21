@@ -1,0 +1,51 @@
+export const Students: students[] = [
+    {
+      image: "https://i.pinimg.com/564x/3a/90/a6/3a90a6c24cd2951b626f9d8ad096529c.jpg",
+      name: "Julio Silva",
+      email: "Julio@gmail.com",
+      stats: true,
+      rate1: 10,
+      rate2: 8.5,
+    },
+    {
+      image: "https://i.pinimg.com/564x/83/15/d3/8315d3ec88268ddab0626ae578a8b8f4.jpg",
+      name: "Igor Gabriel",
+      email: "Igorgabriel@gmail.com",
+      stats: true,
+      rate1: 7.2,
+      rate2: 6,
+    },
+    {
+      image: "https://i.pinimg.com/564x/3e/2c/c4/3e2cc4ade3d61f40ef791ac26d8a3cba.jpg",
+      name: "Matheus Geovane",
+      email: "Matheusgeo@gmail.com",
+      stats: true,
+      rate1: 3,
+      rate2: 7,
+    },
+    {
+      image: "https://i.pinimg.com/564x/f0/51/ae/f051aede4ae64d6db2686339727fab61.jpg",
+      name: "Lucas Garrido",
+      email: "lucasgarr@hotmail.com.br",
+      stats: false,
+      rate1: 0,
+      rate2: 3.5,
+    },
+    {
+      image: "https://i.pinimg.com/564x/5b/0f/a3/5b0fa3b740ad10c7a4b8fe84ef82a85c.jpg",
+      name: "Gabriel Rezende",
+      email: "GabrielMZ@yahoo.com",
+      stats: true,
+      rate1: 9,
+      rate2: 9.5,
+    },
+    {
+      image: "https://i.pinimg.com/564x/f8/a5/1e/f8a51e8e782d5af240bde3b7a99647c7.jpg",
+      name: "Geraldo Melo",
+      email: "Geramelo@hotmail.com",
+      stats: false,
+      rate1: 10,
+      rate2: 10,
+    },
+  ];
+
